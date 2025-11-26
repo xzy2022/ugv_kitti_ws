@@ -1,0 +1,16 @@
+# Ignore all data under data/07 except specific files
+data/07/**
+
+# Allow calib and readme
+!data/07/calib.txt
+!data/07/readme.txt
+
+# Allow poses folder
+!data/07/poses/
+!data/07/poses/*.txt
+
+# Allow your script
+!data/07/tree_limited.sh
+
+# 忽略压缩包
+data/KITTI_odometry_sequence_07.zip
