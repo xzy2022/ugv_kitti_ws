@@ -1,0 +1,66 @@
+xzy@xzy-Lenovo-Legion-R7000-2020:~/ugv_kitti_ws$ ls
+data  notebooks  output  results  scripts  src
+xzy@xzy-Lenovo-Legion-R7000-2020:~/ugv_kitti_ws$ ./scripts/tree_limited.sh .
+./
+  data/
+    07/
+      calib.txt
+      image_3/
+        000000.png
+        000001.png
+        000002.png
+        000003.png
+        000004.png
+        000005.png
+        000006.png
+        000007.png
+        000008.png
+        000009.png
+        ... (more)
+      labels/
+        000000.label
+        000001.label
+        000002.label
+        000003.label
+        000004.label
+        000005.label
+        000006.label
+        000007.label
+        000008.label
+        000009.label
+        ... (more)
+      labels.zip
+      poses/
+        orig_poses.txt
+        our_poses.txt
+        suma_poses.txt
+      readme.txt
+      useless/
+        instances.txt
+        poses.txt
+        suma_poses.txt
+        times.txt
+      velodyne/
+        000000.bin
+        000001.bin
+        000002.bin
+        000003.bin
+        000004.bin
+        000005.bin
+        000006.bin
+        000007.bin
+        000008.bin
+        000009.bin
+        ... (more)
+    KITTI_odometry_sequence_07.zip
+  notebooks/
+    01_data_analysis_and_calibration.ipynb
+  output/
+    *
+  results/
+    *
+  scripts/
+    tree_limited.sh
+  src/
+    *
+xzy@xzy-Lenovo-Legion-R7000-2020:~/ugv_kitti_ws$ 

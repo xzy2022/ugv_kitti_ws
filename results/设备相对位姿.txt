@@ -1,0 +1,14 @@
+ 1. KITTI 数据集
+平台：由德国卡尔斯鲁厄理工学院（KIT）和丰田美国研究院（TRI）合作采集。
+
+采集车辆：使用一辆改装的 Audi A6 轿车。
+
+LiDAR 型号：通常为 Velodyne HDL-64E。
+
+✅ LiDAR 安装高度：约 1.73 米（从地面到传感器中心）。
+
+来源：KITTI 官方网站、相关论文（如 Geiger et al., 2013）以及用户实测。
+注：该高度是相对于水平地面测量的，安装在车顶行李架上。
+————————————————
+版权声明：本文为CSDN博主「aixiao_xiaoo」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/aixiao_xiaoo/article/details/153271421
