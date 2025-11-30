@@ -14,3 +14,5 @@ data/07/**
 
 # 忽略压缩包
 data/KITTI_odometry_sequence_07.zip
+
+*.pcd
